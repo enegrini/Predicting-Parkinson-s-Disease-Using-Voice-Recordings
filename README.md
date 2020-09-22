@@ -12,3 +12,5 @@ We will look at the different variables and try to predict if the person has Par
 
 ### Method
 We will use decision trees, random forests and K-neares neighbors. We evaluate our results using confusion matrices.
+
+<img src="images/parkinsons.jpg" width="300">
