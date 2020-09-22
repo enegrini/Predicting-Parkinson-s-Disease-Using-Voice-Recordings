@@ -1,5 +1,5 @@
 # Predicting Parkinson's Disease Using Voice Recordings
-This project is coded in Python and the code can be found in the Code folder.
+This project is coded in Python and the code can be found in the file Parkinson's Project Final.ipynb.
 
 ### Introduction
 In this project we will study a Parkinson's Disease data set.
